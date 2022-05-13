@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### There are some open source projects where i contributed 🙌
+### There are some open source projects where I contributed 🙌
 
 ####  Python
 + [graphene-django](https://github.com/graphql-python/graphene-django/commits?author=artofhuman)
