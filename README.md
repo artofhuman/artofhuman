@@ -15,7 +15,7 @@
 + [sequel-rails](https://github.com/TalentBox/sequel-rails/commits?author=artofhuman)
 + [ruby](https://github.com/ruby/ruby/commits?author=artofhuman)
 + [combustion](https://github.com/pat/combustion/commits?author=artofhuman)
-+ [minimagic](https://github.com/minimagick/minimagick/commits?author=artofhuman)
++ [minimagick](https://github.com/minimagick/minimagick/commits?author=artofhuman)
 
 
 ... to be continued
